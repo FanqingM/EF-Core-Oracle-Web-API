@@ -1,7 +1,7 @@
 # EF-Core-Oracle-Web-API
 very simple CURD Web API demo With EF Core and Oracle
 
-## 一个非常简单的采用EF core搭配Oracle数据库（大学数据库，移步db-book.com），给出的不标准的CRUD的web API的demo
+## 一个非常简单的采用EF core搭配Oracle数据库（大学数据库，移步db-book.com），给出的不标准的CRUD的web API的demo(但修改也很容易，不过测试需要用postman了)
 
 ### 使用时，需要添加MicrosoftEntityFramework.tools,MicrosoftEntityFrameworkCore,Oracle.MicrosoftEntityFrameworkCore的Nuget包，并将数据库连接换成自己Tnsname.ora文件中的相关信息
 
